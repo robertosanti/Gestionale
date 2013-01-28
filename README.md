@@ -1,0 +1,4 @@
+Gestionale
+==========
+
+Gestionale Dare/Avere
